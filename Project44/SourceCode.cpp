@@ -1,20 +1,4 @@
-/*********
-   CTIS164 - Template Source Program
-----------
-STUDENT :Emirhan KAYA
-SECTION : 2
-HOMEWORK: 2
-----------
-PROBLEMS:
-----------
-ADDITIONAL FEATURES:
-1-Detailed pikachu draw.
-2-You can see your score at the screen.
-3-Random monster colors.
-4-Pause screen.
-5-End screen (your score also be displayed at the end)
-In addition, you will get a message ,according to your score.
-*********/
+//Emirhan KAYA
 
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
@@ -704,7 +688,7 @@ void main(int argc, char* argv[]) {
     glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);
     glutInitWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);
     glutInitWindowPosition(100, 100);
-    glutCreateWindow("Emirhan KAYA HW2");
+    glutCreateWindow("Emirhan KAYA");
     glutDisplayFunc(display);
     glutReshapeFunc(onResize);
     
