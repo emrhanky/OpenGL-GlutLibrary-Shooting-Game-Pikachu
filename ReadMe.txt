@@ -4,4 +4,4 @@ OpenGL GLUT C used for this
 press f1 to pause/start game
 spacebar to fire
 arrow keys for moving up and down
-![alt text](https://github.com/[emrhanky]/[OpenGL-GlutLibrary-Shooting-Game-Pikachu]/before start.jpg?raw=true)
+![alt text](https://github.com/[emrhanky]/[OpenGL-GlutLibrary-Shooting-Game-Pikachu]/Whenfirepokeball.png?raw=true)
